@@ -1,5 +1,5 @@
 # animal_recognition
-Progetto modulo 5 del master AI Engineering di Profession AI
+Progetto modulo: Deep Learning e Reti Neurali Artificiali, del master AI Engineering di Profession AI
 
 ## Riconoscimento di animali per auto a guida autonoma
 VisionTech Solutions vuole sviluppare un sistema di riconoscimento automatico delle immagini per distinguere tra veicoli e animali, con l'obiettivo di ottimizzare le operazioni di monitoraggio della fauna nelle aree urbane, evitando incidenti stradali e proteggendo sia gli animali che i veicoli.
